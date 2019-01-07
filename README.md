@@ -10,7 +10,7 @@ This project shows how to use BottomNavigationView, Android DataBinding library,
 
 # The Movie Database API key
  You need to obtain your own API key from the official site and replace it in the MainActivity.java file.
- <a href="https://www.themoviedb.org/" target="_blank"> The Movie Database Official Link </a>
+ <a href="https://www.themoviedb.org/" target="API"> The Movie Database Official Link </a>
 
  
 
