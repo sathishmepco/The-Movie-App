@@ -4,7 +4,7 @@ This project shows how to use BottomNavigationView, Android DataBinding library,
 # Libraries used in this project
 - BottomNavigationView
 - The Movie Database API
-- Androdi Data Binding
+- Android Data Binding
 - Volley API
 - RecyclerView (GridLayout) & Cardview
 
